@@ -28,7 +28,7 @@ int main()
 
 ## Example.png
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/yurtrimu/chrome-password/blob/main/Capture.PNG?raw=true)
 
 ## Operating System
 - **<Windows 7 - 🟦 Untested**

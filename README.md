@@ -46,7 +46,7 @@ int main()
 
 - **libssl.lib**
 - **libcrypto.lib**
-- - **crypt32.lib**
+- **crypt32.lib**
 
 ## Contributing
 

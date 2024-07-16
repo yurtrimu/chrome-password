@@ -1,5 +1,10 @@
 The code has a very basic, easy to read and library-kind of structure
 
+You have to have OPENSSL library installed on your device as a static library
+
+How to link openssl?
+show how to link it...
+
 sample.c:
 [sample.code]
 

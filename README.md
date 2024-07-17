@@ -28,7 +28,7 @@ int main()
 
 ## Example.png
 
-![alt text](https://github.com/yurtrimu/chrome-password/blob/main/Example.png?raw=true)
+![alt text](https://github.com/yurtrimu/chrome-password-retrieval/blob/main/Example.png?raw=true)
 
 ## Operating System
 - **Below Windows 7 - 🟦 Untested**

@@ -32,11 +32,11 @@ int main()
 
 ## Operating System
 - **Below Windows 7 - 🟦 Untested**
-- **Windows 7 - 🟦 Untested**
-- **Windows 10 - 🟩 Working**
-- **Windows 11 - 🟦 Untested**
-- **Mac OS - 🟥 Not Working**
-- **Linux - 🟥 Not Working**
+- **Windows 7 -       🟦 Untested**
+- **Windows 10 -      🟩 Working**
+- **Windows 11 -      🟦 Untested**
+- **Mac OS -          🟥 Not Working**
+- **Linux -           🟥 Not Working**
 
 ## Requirements
 
@@ -52,11 +52,11 @@ int main()
 
 ## Compiling
 
-- **Build - 🟦 Untested**
+- **Build -   🟦 Untested**
 - **Release - 🟩 Working**
 
 - **C++17 or below - 🟥 Not Working**
-- **C++20 - 🟩 Working**
+- **C++20 -          🟩 Working**
 
 ## Contributing
 

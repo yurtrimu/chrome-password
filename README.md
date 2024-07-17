@@ -1,4 +1,4 @@
-# 🟩 Chrome Password Retrieval 🟩
+# 🟩 Chrome Password Retrieval 🟩 <a href="https://github.com/yurtrimu/chrome-password-retrieval/actions/workflows/main.yml"><img src="https://github.com/yurtrimu/chrome-password-retrieval/actions/workflows/main.yml/badge.svg" alt="Working"></a>
 
 **Chrome Password Retrieval is for retrieving decrypted chrome user data.**
 

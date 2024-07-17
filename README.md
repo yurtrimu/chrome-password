@@ -35,8 +35,8 @@ int main()
 - **Windows 7 -⠀⠀⠀⠀⠀⠀⠀🟦 Untested**
 - **Windows 10 -⠀⠀⠀⠀⠀⠀🟩 Working**
 - **Windows 11 -⠀⠀⠀⠀⠀⠀🟦 Untested**
-- **Mac OS -⠀⠀⠀⠀⠀⠀⠀⠀⠀  🟥 Not Working**
-- **Linux -⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  🟥 Not Working**
+- **Mac OS -⠀⠀⠀⠀⠀⠀⠀⠀⠀ 🟥 Not Working**
+- **Linux -⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 🟥 Not Working**
 
 ## Requirements
 

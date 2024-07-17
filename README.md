@@ -31,7 +31,7 @@ int main()
 ![alt text](https://github.com/yurtrimu/chrome-password/blob/main/Example.png?raw=true)
 
 ## Operating System
-- **<Windows 7 - 🟦 Untested**
+- **Below Windows 7 - 🟦 Untested**
 - **Windows 7 - 🟦 Untested**
 - **Windows 10 - 🟩 Working**
 - **Windows 11 - 🟦 Untested**
@@ -47,6 +47,14 @@ int main()
 - **libssl.lib**
 - **libcrypto.lib**
 - **crypt32.lib**
+
+## Compiling
+
+- **Build - 🟦 Untested**
+- **Release - 🟩 Working**
+
+- **C++17 or below - 🟥 Not Working**
+- **C++20 - 🟩 Working**
 
 ## Contributing
 

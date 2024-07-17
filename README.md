@@ -31,12 +31,12 @@ int main()
 ![alt text](https://github.com/yurtrimu/chrome-password/blob/main/Example.png?raw=true)
 
 ## Operating System
-- **Below Windows 7 - 🟦 Untested**
-- **Windows 7 -       🟦 Untested**
-- **Windows 10 -      🟩 Working**
-- **Windows 11 -      🟦 Untested**
-- **Mac OS -          🟥 Not Working**
-- **Linux -           🟥 Not Working**
+- **Below Windows 7 -⠀⠀⠀🟦 Untested**
+- **Windows 7 -⠀⠀⠀⠀⠀⠀⠀⠀🟦 Untested**
+- **Windows 10 -⠀⠀⠀⠀⠀⠀⠀🟩 Working**
+- **Windows 11 -⠀⠀⠀⠀⠀⠀⠀🟦 Untested**
+- **Mac OS -⠀⠀⠀⠀⠀⠀⠀⠀⠀  🟥 Not Working**
+- **Linux -⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  🟥 Not Working**
 
 ## Requirements
 

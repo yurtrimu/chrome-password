@@ -3,7 +3,7 @@
 ## **Chrome Password Retrieval project is for retrieving decrypted chrome user data.**
 
 # Questions?
-### - **I gladly answer your questions on the [discord server](https://discord.gg/9CuzZUG3uU).**
+### - **I gladly answer your questions on the [discord server](https://discord.gg/QBhFd2aK4r).**
 
 ## Usage
 

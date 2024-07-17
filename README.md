@@ -52,11 +52,11 @@ int main()
 
 ## Compiling
 
-- **Build -   🟦 Untested**
-- **Release - 🟩 Working**
+- **Build -⠀⠀ 🟦 Untested**
+- **Release -⠀🟩 Working**
 
-- **C++17 or below - 🟥 Not Working**
-- **C++20 -          🟩 Working**
+- **C++17 or below -⠀🟥 Not Working**
+- **C++20 -⠀⠀⠀⠀⠀⠀⠀⠀ 🟩 Working**
 
 ## Contributing
 

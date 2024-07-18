@@ -138,7 +138,8 @@ namespace ChromePassword {
 
             TrimCipher(user.password_value, password, tag, iv);
 
-            utils::string::trim_str(password);
+            // this breaks the decryption process
+            //utils::string::trim_str(password);
 
             std::vector<unsigned char> pass_bytes;
             utils::conversion::string_to_byte_vector(password, pass_bytes);

